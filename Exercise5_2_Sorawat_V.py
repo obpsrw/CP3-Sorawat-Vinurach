@@ -1,0 +1,5 @@
+print(" ----- Calculate Velocity ----- ")
+d = int(input("Please input distance (Kilometer) : "))
+t = int(input("Please input time (Hours) : "))
+print("Velocity =",d/t,("Km/hr."))
+print("Thank you")
