@@ -1,0 +1,8 @@
+print("Hello Everyone")
+x = (float(input("Please Input Number 1 : ")))
+y = (float(input("Please Input Number 2 : ")))
+print("No. 1 + No. 2 = ",x+y)
+print("No. 1 - No. 2 = ",x-y)
+print("No. 1 * No. 2 = ",x*y)
+print("No. 1 / No. 2 = ",x/y)
+print("Thank you")
